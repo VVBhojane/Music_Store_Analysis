@@ -8,3 +8,4 @@ Database and Tools:
 Postgre SQL
 PgAdmin4
 
+![MusicDatabaseSchema](https://github.com/VVBhojane/SQL_Music_Store_Analysis/assets/154400575/7aac8fed-0dab-40ad-a03c-27f58b79c057)
